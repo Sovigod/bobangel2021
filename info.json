@@ -1,22 +1,22 @@
 {
   "name": "bobangel2021",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "title": "bobangel2021",
   "factorio_version": "1.1",
   "author": "Sovigod",
   "description": "bobangel mod pack without angel environment",
   "dependencies": [
     "base >= 1.1.0",
-    "AfraidOfTheDark", 
-    "alien-biomes", 
-    "alien-biomes-hr-terrain", 
+    "? AfraidOfTheDark", 
+    "? alien-biomes", 
+    "? alien-biomes-hr-terrain", 
     "angelsaddons-cab",
     "angelsaddons-mobility",
     "angelsaddons-newlocales",
     "angelsaddons-storage",
     "angelsbioprocessing",
     "angelsindustries",
-    "angelsinfiniteores",
+    "? angelsinfiniteores",
     "angelspetrochem",
     "angelsrefining",
     "angelssmelting",
@@ -38,7 +38,7 @@
     "bobtech",
     "bobvehicleequipment",
     "bobwarfare",
-    "CleanFloor",
+    "? CleanFloor",
     "EvoGUI",
     "flib",
     "FNEI",
@@ -48,6 +48,6 @@
     "Nanobots",
     "Squeak Through",
     "stdlib",
-    "Todo-List"
+    "? Todo-List"
     ]
 }
